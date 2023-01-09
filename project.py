@@ -10,7 +10,7 @@ def p(titlu = "", *args):
     print(titlu)
     print(*args, sep="\n")
 
-print('Introduceti o valoare care va fi folosita la Cerinta 2:')...
+print('Introduceti o valoare care va fi folosita la Cerinta 2:')
 valoareConfigurabila = float(input())
 
 currentMonth = datetime.now().month
