@@ -1,4 +1,4 @@
-Python Project
+Python course project
 --------------
 
 Project topic: Data stream processing
