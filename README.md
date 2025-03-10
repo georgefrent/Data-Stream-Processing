@@ -1,7 +1,4 @@
-Python course project
---------------
-
-Project topic: Data stream processing
+Data stream processing
 -------------------------------------
 
 Develop a script that displays alerts if the prevalence of COVID increases.
