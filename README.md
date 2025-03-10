@@ -1,7 +1,7 @@
 Data stream processing
 -------------------------------------
 
-Develop a script that displays alerts if the prevalence of COVID increases.
+Requirement: Develop a script that displays alerts if the prevalence of COVID increases.
 
 Minimum requirements:
 ---------------------
